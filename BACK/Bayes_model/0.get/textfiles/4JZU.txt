@@ -1,0 +1,2 @@
+"seq" "id_dssr" "suite_outlier" "pucker_outlier" "clashes" "bond_lengths" "bond_angles" "chirals" "planes" "rsrz" "value_rsrz"
+"1" "GCP" "1:C.GCP1" FALSE FALSE TRUE FALSE FALSE FALSE FALSE FALSE "FALSE"

@@ -1,0 +1,5 @@
+"seq" "id_dssr" "suite_outlier" "pucker_outlier" "clashes" "bond_lengths" "bond_angles" "chirals" "planes" "rsrz"
+"1" "U" "1:H.U4" "FALSE" FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+"2" "A" "1:H.A5" "TRUE" TRUE TRUE FALSE FALSE FALSE FALSE FALSE
+"3" "A" "1:H.A6" "TRUE" FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+"4" "A" "1:H.A7" "FALSE" FALSE FALSE FALSE FALSE FALSE FALSE FALSE

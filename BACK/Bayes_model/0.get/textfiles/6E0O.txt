@@ -1,0 +1,5 @@
+"seq" "id_dssr" "suite_outlier" "pucker_outlier" "clashes" "bond_lengths" "bond_angles" "chirals" "planes" "rsrz" "value_rsrz"
+"1" "ATP" "1:C.ATP1" FALSE FALSE TRUE FALSE FALSE FALSE FALSE FALSE "FALSE"
+"2" "A" "1:C.A2" FALSE FALSE TRUE FALSE FALSE FALSE FALSE TRUE "2.654"
+"3" "ATP" "1:B.ATP1" FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE "FALSE"
+"4" "A" "1:B.A2" FALSE FALSE TRUE FALSE FALSE FALSE FALSE TRUE "10.366"

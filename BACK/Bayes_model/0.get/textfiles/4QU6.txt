@@ -1,0 +1,4 @@
+"seq" "id_dssr" "suite_outlier" "pucker_outlier" "clashes" "bond_lengths" "bond_angles" "chirals" "planes" "rsrz" "value_rsrz"
+"1" "G" "1:B.G802" "FALSE" FALSE FALSE FALSE FALSE FALSE FALSE TRUE "2.769"
+"2" "G" "1:B.G803" "FALSE" FALSE TRUE FALSE FALSE FALSE FALSE FALSE "FALSE"
+"3" "G" "1:B.G804" "TRUE" FALSE FALSE FALSE FALSE FALSE FALSE TRUE "4.174"

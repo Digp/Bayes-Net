@@ -1,0 +1,7 @@
+"seq" "id_dssr" "suite_outlier" "pucker_outlier" "clashes" "bond_lengths" "bond_angles" "chirals" "planes" "rsrz" "value_rsrz"
+"1" "A" "1:X.A1" "FALSE" TRUE FALSE TRUE TRUE FALSE FALSE FALSE "FALSE"
+"2" "G" "1:X.G2" "TRUE" TRUE FALSE TRUE TRUE FALSE FALSE FALSE "FALSE"
+"3" "A" "1:X.A3" "TRUE" FALSE FALSE TRUE TRUE FALSE FALSE FALSE "FALSE"
+"4" "G" "1:X.G4" "TRUE" TRUE FALSE TRUE TRUE FALSE FALSE FALSE "FALSE"
+"5" "A" "1:X.A5" "TRUE" FALSE FALSE FALSE TRUE FALSE FALSE FALSE "FALSE"
+"6" "G" "1:X.G6" "TRUE" FALSE FALSE TRUE TRUE FALSE FALSE TRUE "3.737"
