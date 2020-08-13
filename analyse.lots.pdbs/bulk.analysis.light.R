@@ -56,7 +56,7 @@ load(paste(opt$dpath,"Bayesian_Data.RData", sep="" ))
 files_pdb <- list.files(opt$pdb, pattern = ".pdb")
 
 scoring_complete <- vector("list", length(files_pdb))
-
+bd <- bayesian_data
 
 scoring_complete <- lapply(1:length(files_pdb), function(m) {
   ####Read the file
